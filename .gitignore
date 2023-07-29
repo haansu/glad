@@ -3,3 +3,12 @@
 *.kdev4
 build/
 *.o
+
+# Visual Studio
+*.vcxproj*
+*.vcxproj
+*.sln
+
+# Build
+Intermediate
+Binaries
